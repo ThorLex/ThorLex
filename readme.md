@@ -43,7 +43,7 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 
 ### Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile"/>,expo go
+  <img src="https://skillicons.dev/icons?i=react,expogo" alt="Mobile"/>
 </p>
 
 ### Backend & Base de données
