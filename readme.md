@@ -2,9 +2,9 @@
   <img align="right" alt="Profile Picture" width="300" src="https://github.com/ThorLex/ThorLex/blob/main/placeholder-user.jpg" style="border-radius: 50%; margin-left: 20px;">
 </div>
 
-# Salut, je suis Ambroise BEKONO BEYAS 👋
+ Salut, je suis Ambroise BEKONO BEYAS 👋
 
-## Développeur Fullstack | Spécialiste Backend
+ Développeur Fullstack | Spécialiste Backend
 
 Passionné par la conception d'architectures robustes et évolutives dans l'écosystème JavaScript. Je transforme des idées complexes en solutions techniques élégantes et performantes.
 
