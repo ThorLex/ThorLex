@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="Profile Picture" width="300" src="https://github.com/ThorLex/ThorLex/blob/main/placeholder-user.jpg" style="border-radius: 50%">
+  <img align="center" alt="Profile Picture" width="300" src="https://github.com/ThorLex/ThorLex/blob/main/placeholder-user.jpg" style="border-radius: 50%;margin-top:50px">
 </div>
 
  # Salut, je suis Ambroise BEKONO BEYAS 👋
@@ -12,11 +12,11 @@ Quand je ne code pas, vous me trouverez probablement en train de suivre un match
 
 ### Ce que je fais
 
-Je me spécialise dans le développement backend avec Node.js et Express, tout en maîtrisant l'ensemble de la stack pour livrer des applications complètes. Mon approche privilégie la qualité du code, l'évolutivité des systèmes et l'efficacité des solutions.
+Je continue mon exploration dans le monde de la technologie en renforçant les compétences dans le développement backend avec Node.js et Express, tout en maîtrisant l'ensemble de la stack pour livrer des applications complètes.Je privilégie la qualité du code, l'évolutivité des systèmes et l'efficacité des solutions.
 
 **Domaines d'expertise :**
 - Architecture microservices et API REST
-- Développement fullstack avec MERN et MEAN
+- Développement fullstack
 - Intégration de systèmes complexes
 - Solutions d'intelligence artificielle appliquées
 
@@ -28,17 +28,18 @@ Je me spécialise dans le développement backend avec Node.js et Express, tout e
 
 **Outils :** Git, GitLab, GitHub, Azure DevOps, PM2, Docker, CI/CD
 
-**Cloud :** Vercel, Netlify, Render
+**Cloud :** Vercel, Netlify, Render,Google cloud
 
 ### Projets notables
 
- **Taskify** - Plateforme SaaS de gestion de projet avec architecture microservices
+ **Taskify** - Plateforme SaaS de gestion de projet simple d'utilisation mais puissant
 
  **MongoMath** - Package NPM pour l'analyse statistique avancée sur MongoDB
+Pour rapidement mettre en place des dashboard /obtenir des metrics statistiques durs des données ou sa base de données (analyse quantitative uniquement)
 
- **Détection IA du Cancer du Sein** - Système d'intelligence artificielle médicale
+ **Détection IA du Cancer du Sein** - Système d'intelligence artificielle médicale basé sur l'analyse des mammographie.
 
- **Shire** - Application mobileet web  B2B pour la logistique collaborative
+ **Shire** - Application mobileet web  B2B, B2C et C2C pour la logistique collaborative (non disponible -actuellement en lancement)
 
 ### Actuellement 
 
@@ -50,11 +51,11 @@ Je me spécialise dans le développement backend avec Node.js et Express, tout e
 
 ### Philosophie de travail
 
-Je crois en la rigueur technique, la structuration claire du code et la collaboration efficace. Chaque ligne de code que j'écris vise à résoudre un problème réel tout en restant maintenable et évolutive.
+Je crois en la rigueur technique, la structuration claire du code et la collaboration efficace. Mon code vise à résoudre des problèmes réel tout en restant maintenable et évolutifs.
 
 ### Au-delà du code
 
-⚽ **Passionné de Football** - Le football est plus qu'un sport pour moi, c'est une école de vie. J'y ai appris l'importance de la stratégie, du timing parfait et de la collaboration - des compétences qui se reflètent dans ma façon d'aborder le développement logiciel.
+⚽ **Passionné de Football** - Le football est plus qu'un sport pour moi, c'est une école de vie. J'y ai appris l'importance de la stratégie, du timing parfait et de la collaboration - par dessus tout on s'amuse beaucoup et surtout. en équipe.
 
 ### Restons connectés
 
