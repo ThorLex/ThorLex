@@ -28,7 +28,8 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 - Intégration de systèmes complexes
 - Solutions d'intelligence artificielle appliquées
 
-##   Stack technique &  Technologies & Outils
+##   Stack technique &  Technologies & outils
+
 
 ### Langages de programmation
 <p align="center">
@@ -37,31 +38,29 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,materialui" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,materialui" alt="Frontend"/>
 </p>
 
-### Backend
+### Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile"/>
 </p>
 
-### Outils & DevOps
+### Backend & Base de données
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,windows" alt="Outils"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,jwt" alt="Backend"/>
 </p>
 
 ### Cloud & Hébergement
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,render" alt="Cloud"/>
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,render" alt="Cloud"/>
 </p>
 
-**Backend :** Node.js, Express.js, MongoDB, MySQL, JWT, Microservices
+### DevOps & Outils
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,docker,postman,vscode,linux,windows" alt="DevOps"/>
+</p>
 
-**Frontend :** React.js, React Native, Angular, TypeScript, Tailwind CSS
-
-**Outils :** Git, GitLab, GitHub, Azure DevOps, PM2, Docker, CI/CD
-
-**Cloud :** Vercel, Netlify, Render,Google cloud
 
 ### Projets notables
 
