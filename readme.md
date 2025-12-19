@@ -1,8 +1,8 @@
 <div align="center">
-  <img align="right" alt="Profile Picture" width="300" src="https://github.com/ThorLex/ThorLex/blob/main/placeholder-user.jpg" style="border-radius: 50%; margin-left: 20px;">
+  <img align="right" alt="Profile Picture" width="300" src="https://github.com/ThorLex/ThorLex/blob/main/placeholder-user.jpg" style="border-radius: 50%; margin-left: 50px;">
 </div>
 
- #Salut, je suis Ambroise BEKONO BEYAS 👋
+ # Salut, je suis Ambroise BEKONO BEYAS 👋
 
  ## Développeur Fullstack | Spécialiste Backend
 
