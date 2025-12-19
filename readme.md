@@ -38,11 +38,12 @@ Je me spécialise dans le développement backend avec Node.js et Express, tout e
 
  **Détection IA du Cancer du Sein** - Système d'intelligence artificielle médicale
 
- **Shire** - Application mobile et web B2B pour la logistique collaborative
+ **Shire** - Application mobileet web  B2B pour la logistique collaborative
 
-### Actuellement
+### Actuellement 
 
-- Lead Developer Front-End chez 1hand Business
+
+- Retour de maladie (pleine forme pour démarrer à nouveau en entreprise)
 - Développement d'applications Angular et TypeScript
 - Exploration continue de nouvelles technologies et meilleures pratiques
 - Recherche d'opportunités stables pour contribuer à des projets d'envergure
