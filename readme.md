@@ -6,7 +6,8 @@
 
  ## Développeur Fullstack | Spécialiste Backend
 
-  <a href="https://skillicons.dev">
+
+  <a href="https://skillicons.dev" style="border-radius: 50%;margin-top:50px">
     <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
 </a>
 
