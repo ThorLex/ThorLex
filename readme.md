@@ -28,7 +28,32 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 - Intégration de systèmes complexes
 - Solutions d'intelligence artificielle appliquées
 
-### Stack technique
+##   Stack technique &  Technologies & Outils
+
+### Langages de programmation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php" alt="Langages"/>
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,materialui" alt="Frontend"/>
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend"/>
+</p>
+
+### Outils & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,windows" alt="Outils"/>
+</p>
+
+### Cloud & Hébergement
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,render" alt="Cloud"/>
+</p>
 
 **Backend :** Node.js, Express.js, MongoDB, MySQL, JWT, Microservices
 
