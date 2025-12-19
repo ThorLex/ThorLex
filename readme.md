@@ -7,9 +7,12 @@
  ## Développeur Fullstack | Spécialiste Backend
 
 
-  <a href="https://skillicons.dev" style="border-radius: 50%;margin-top:50px">
-    <img src="https://skillicons.dev/icons?i=aws,azure,node,docker,git,github,angular, react, bootstrap, tailwindcss, pm2,js,linux" alt="Skills and tools"/>
-</a>
+  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,node,docker,git,github,angular,react,reactnative,expo,bootstrap,tailwindcss,pm2,js,linux" alt="Skills and tools"/>
+  </a>
+</div>
 
 Passionné par la conception d'architectures robustes et évolutives dans l'écosystème JavaScript. Je transforme des idées complexes en solutions techniques élégantes et performantes.
 
