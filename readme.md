@@ -6,6 +6,10 @@
 
  ## Développeur Fullstack | Spécialiste Backend
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+</a>
+
 Passionné par la conception d'architectures robustes et évolutives dans l'écosystème JavaScript. Je transforme des idées complexes en solutions techniques élégantes et performantes.
 
 Quand je ne code pas, vous me trouverez probablement en train de suivre un match de football ou de jouer moi-même. Le football m'a appris la discipline, le travail d'équipe et la persévérance - des valeurs que j'applique quotidiennement dans mon travail de développeur.
