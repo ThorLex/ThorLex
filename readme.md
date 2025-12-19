@@ -48,7 +48,7 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 
 ### Backend & Base de données
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nest, express,mongodb,mysql,firebase,jwt" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,mongodb,mysql,firebase,jwt" alt="Backend"/>
 </p>
 
 ### Cloud & Hébergement
