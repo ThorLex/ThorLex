@@ -1,8 +1,14 @@
+<div align="center">
+  <img align="right" alt="Profile Picture" width="300" src="https://github.com/ThorLex.png" style="border-radius: 50%; margin-left: 20px;">
+</div>
+
 # Salut, je suis Ambroise BEKONO BEYAS 👋
 
 ## Développeur Fullstack | Spécialiste Backend
 
 Passionné par la conception d'architectures robustes et évolutives dans l'écosystème JavaScript. Je transforme des idées complexes en solutions techniques élégantes et performantes.
+
+Quand je ne code pas, vous me trouverez probablement en train de suivre un match de football ou de jouer moi-même. Le football m'a appris la discipline, le travail d'équipe et la persévérance - des valeurs que j'applique quotidiennement dans mon travail de développeur.
 
 ### Ce que je fais
 
@@ -45,15 +51,19 @@ Je me spécialise dans le développement backend avec Node.js et Express, tout e
 
 Je crois en la rigueur technique, la structuration claire du code et la collaboration efficace. Chaque ligne de code que j'écris vise à résoudre un problème réel tout en restant maintenable et évolutive.
 
+### Au-delà du code
+
+⚽ **Passionné de Football** - Le football est plus qu'un sport pour moi, c'est une école de vie. J'y ai appris l'importance de la stratégie, du timing parfait et de la collaboration - des compétences qui se reflètent dans ma façon d'aborder le développement logiciel.
+
 ### Restons connectés
 
  **Email :** beyasbekono@gmail.com
 
  **Portfolio :** [ambbeyas.com](https://ambbeyas.com)
 
-💼 **LinkedIn :** [Ambroise BEYAS BEKONO](https://www.linkedin.com/in/ambroise-beyas-bekono)
+ **LinkedIn :** [Ambroise BEYAS BEKONO](https://www.linkedin.com/in/ambroise-beyas-bekono)
 
-📍 **Localisation :** Douala, Cameroun
+ **Localisation :** Douala, Cameroun
 
 ---
 
