@@ -8,7 +8,7 @@
 
 
   <a href="https://skillicons.dev" style="border-radius: 50%;margin-top:50px">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,node,docker,git,github,angular, react, bootstrap, tailwindcss, pm2,js,linux" alt="Skills and tools"/>
 </a>
 
 Passionné par la conception d'architectures robustes et évolutives dans l'écosystème JavaScript. Je transforme des idées complexes en solutions techniques élégantes et performantes.
