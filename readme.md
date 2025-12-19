@@ -38,17 +38,17 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,materialui" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,next,tailwind,bootstrap,materialui" alt="Frontend"/>
 </p>
 
 ### Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile"/>
+  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile"/>,expo go
 </p>
 
 ### Backend & Base de données
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,jwt" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nest, express,mongodb,mysql,firebase,jwt" alt="Backend"/>
 </p>
 
 ### Cloud & Hébergement
