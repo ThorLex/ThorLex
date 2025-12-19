@@ -26,13 +26,13 @@ Je me spécialise dans le développement backend avec Node.js et Express, tout e
 
 ### Projets notables
 
-🚀 **Taskify** - Plateforme SaaS de gestion de projet avec architecture microservices
+ **Taskify** - Plateforme SaaS de gestion de projet avec architecture microservices
 
-📦 **MongoMath** - Package NPM pour l'analyse statistique avancée sur MongoDB
+ **MongoMath** - Package NPM pour l'analyse statistique avancée sur MongoDB
 
-🏥 **Détection IA du Cancer du Sein** - Système d'intelligence artificielle médicale
+ **Détection IA du Cancer du Sein** - Système d'intelligence artificielle médicale
 
-📱 **Shire** - Application mobile et web B2B pour la logistique collaborative
+ **Shire** - Application mobile et web B2B pour la logistique collaborative
 
 ### Actuellement
 
@@ -47,9 +47,9 @@ Je crois en la rigueur technique, la structuration claire du code et la collabor
 
 ### Restons connectés
 
-📫 **Email :** beyasbekono@gmail.com
+ **Email :** beyasbekono@gmail.com
 
-🌐 **Portfolio :** [ambbeyas.com](https://ambbeyas.com)
+ **Portfolio :** [ambbeyas.com](https://ambbeyas.com)
 
 💼 **LinkedIn :** [Ambroise BEYAS BEKONO](https://www.linkedin.com/in/ambroise-beyas-bekono)
 
