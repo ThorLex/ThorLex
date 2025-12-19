@@ -8,11 +8,6 @@
 
 
   
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,node,docker,git,github,angular,react,reactnative,expo,bootstrap,tailwindcss,pm2,js,linux" alt="Skills and tools"/>
-  </a>
-</div>
 
 Passionné par la conception d'architectures robustes et évolutives dans l'écosystème JavaScript. Je transforme des idées complexes en solutions techniques élégantes et performantes.
 
@@ -53,7 +48,7 @@ Je continue mon exploration dans le monde de la technologie en renforçant les c
 
 ### Cloud & Hébergement
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,render" alt="Cloud"/>
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,pm2,render" alt="Cloud"/>
 </p>
 
 ### DevOps & Outils
