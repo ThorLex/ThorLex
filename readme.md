@@ -2,7 +2,7 @@
   <img align="center" alt="Profile Picture" width="300" src="https://github.com/ThorLex/ThorLex/blob/main/placeholder-user.jpg" style="border-radius: 50%;margin-top:50px">
 </div>
 
- # Salut, je suis Ambroise BEKONO BEYAS 👋
+ # Salut, je suis Ambroise 👋
 
  ## Développeur Fullstack | Spécialiste Backend
 
