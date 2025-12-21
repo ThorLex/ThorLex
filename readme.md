@@ -4,7 +4,7 @@
 
  # Salut, je suis Ambroise 👋
 
- ## Développeur Fullstack | Spécialiste Backend
+ ## Développeur Fullstack | Orienté Backend
 
 
   
